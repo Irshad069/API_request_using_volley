@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">API_request_using_volley</string>
+    <string name="get_15_off">Get 15% Off</string>
+    <string name="n_loking_for_hair_style_nand_colour">\n Loking for hair style \nAnd colour</string>
+    <string name="california_usa">California, USA</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
